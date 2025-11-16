@@ -25,13 +25,21 @@ Category-wise quantity breakdown
 Month-wise profit trend visualization
 
 🛠️ **Excel Skills Used**
+
 Skill	Usage:
+
 Pivot Tables	Data summarization and grouping
+
 Pivot Charts	Visualizing KPIs & trends
+
 Slicers	Interactive state/quarter filters
+
 Data Cleaning	Preparing dataset for analysis
+
 Conditional Formatting	Highlighting key metrics
+
 Dashboard Design	Custom layout, color themes, formatting
+
 Aggregation Logic	Revenue, profit, order-level calculations
 
 📈 **Key Insights Derived**
